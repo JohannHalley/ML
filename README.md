@@ -18,3 +18,6 @@ C: trade off parameter
 
 
 ## NN
+perceptron learning
+
+gradient descent( bp
