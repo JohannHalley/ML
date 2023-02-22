@@ -1,2 +1,2 @@
-this is a notebook of **mechine learning**.  
+this is a notebook of ***Mechine Learning***.  
 See details under Wiki tab.
